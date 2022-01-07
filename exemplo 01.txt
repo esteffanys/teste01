@@ -1,0 +1,1 @@
+add exemplo 01 e 02 a msm tempo no git status
